@@ -1,0 +1,2 @@
+# teachManager
+my first github
