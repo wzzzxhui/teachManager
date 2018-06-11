@@ -1,0 +1,67 @@
+.val_ul {
+  font-size: 14px;
+  text-align: center;
+}
+
+.nav {
+  background-color: white;
+}
+
+.footer {
+  background-color: white;
+}
+
+.login_color {
+  background-color: #E6FCFE;
+  height: 100%;
+}
+
+.login_color .login_top {
+  height: 25%;
+  width: 100%;
+  position: absolute;
+}
+
+.login_color .login_top div {
+  background: url(http://localhost/teachManager/public/img/bg_praise.gif) no-repeat;
+  width: 40%;
+  height: 100%;
+}
+
+.login_color .login_bg {
+  background: url(http://localhost/teachManager/public/img/bg_login.png) no-repeat center bottom;
+  width: 100%;
+  height: 90%;
+  position: absolute;
+}
+
+.login_color .login_bg .login_target {
+  background: url(http://localhost/teachManager/public/img/bg_login_dialog.png) no-repeat;
+  top: 60%;
+  left: 50%;
+  width: 381px;
+  height: 361px;
+  margin-left: 80px;
+  margin-top: -180px;
+  position: absolute;
+}
+
+.login_color .login_bg .login_target .login_form {
+  padding: 55px 45px;
+}
+
+.login_color .login_bg .login_target .login_form input {
+  width: 100%;
+  height: 15%;
+  margin-bottom: 5%;
+  font-size: 18px !important;
+}
+
+.login_color .login_bg .login_target .login_form input[type='button'] {
+  bottom: 5%;
+}
+
+.login_color .login_bg .login_target .login_form a {
+  margin-bottom: 5%;
+}
+
