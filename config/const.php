@@ -19,7 +19,8 @@ return[
         '班级中心' => [
 //            '用户信息','用户审核'
             ['title'=>'班级管理','href' => 'getUsers'],
-            ['title'=>'新增班级','href' => 'getUsers']
+            ['title'=>'新增班级','href' => 'getUsers'],
+            ['title'=>'test','href' => 'testjkjk'],
         ],
         '作业中心' => [
             ['title'=>'作业管理','href' => 'tasks'],
