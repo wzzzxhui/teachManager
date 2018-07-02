@@ -9,7 +9,7 @@ return[
 //            '用户信息','用户审核'
             ['title'=>'用户管理','href' => 'getUsers'],
             ['title'=>'用户审核','href' => 'getUsers'],
-            ['title'=>'test','href' => 'test'],
+            ['title'=>'test','href' => 'testjkjk'],
         ],
         '学校中心' => [
 //            '用户信息','用户审核'
